@@ -1,0 +1,13 @@
+---
+title: "2214 Assignment 1"
+author: "Jacob Holmes"
+date: "2023-01-26"
+categories: [code, analysis, java]
+image: "image.jpg"
+---
+
+Homework assignment from Fall 2022 INEG 2214.
+
+``` java
+System.out.println("Hello world");
+```

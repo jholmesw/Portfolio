@@ -1,0 +1,17 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: github
+      href: https://github.com/jholmesw
+    - icon: twitter
+      href: https://twitter.com/Jacob___Holmes
+---
+
+I am a Sr. Data Scientist at Microsoft. I have an extensive background working with varied data sets and using advanced analytics to enable business stakeholders to make informed decisions.
+
+I recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Python environment using reticulate, and data visualizations using animation and interactivity. I love learning new things constantly and sharing my knowledge with others in a digestible manner.

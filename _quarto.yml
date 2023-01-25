@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jacob Holmes"
+  favicon: "image.jpg"
+  navbar:
+    left: 
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: project.qmd
+      - text: Resume
+        href: resume.qmd
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/jholmesw
+      - icon: twitter
+        href: https://twitter.com/Jacob___Holmes
+  page-footer:
+    center: |
+      [Contact Deepsha Menghani](mailto:menghani.deepsha@gmail.com)
+    left: |
+      Made with [Quarto](https://quarto.org/)
+    right: |
+      [Github Code Repo](https://github.com/jholmesw)
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: darkly
+    code-link: true
+    code-fold: show
+    code-tools: true
+    highlight-style: github
