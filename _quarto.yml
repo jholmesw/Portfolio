@@ -33,5 +33,4 @@ format:
       dark: darkly
     code-link: true
     code-fold: show
-    code-tools: true
     highlight-style: github
