@@ -53,6 +53,6 @@
     "href": "posts/post-with-pptx/index.html",
     "title": "Post With pptx",
     "section": "",
-    "text": "This is an embedded <a target=\"_blank\" href=\"https://office.com\">Microsoft Office</a> presentation, powered by <a target=\"_blank\" href=\"https://office.com/webapps\">Office</a>."
+    "text": "This is a post with a PowerPoint.\n\nThis is an embedded <a target=\"_blank\" href=\"https://office.com\">Microsoft Office</a> presentation, powered by <a target=\"_blank\" href=\"https://office.com/webapps\">Office</a>."
   }
 ]
