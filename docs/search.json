@@ -46,7 +46,7 @@
     "href": "project.html",
     "title": "Projects",
     "section": "",
-    "text": "2214 Assignment 1\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\njava\n\n\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nJacob Holmes\n\n\n\n\n\n\n  \n\n\n\n\nPost With Plot\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\nplotly\n\n\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nJacob Holmes\n\n\n\n\n\n\n  \n\n\n\n\nPost With pptx\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\npptx\n\n\n\n\n\n\n\n\n\n\n\nJan 25, 2023\n\n\nJacob Holmes\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 24, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 21, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "2214 Assignment 1\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\njava\n\n\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nJacob Holmes\n\n\n\n\n\n\n  \n\n\n\n\nPost With Plot\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\nplotly\n\n\n\n\n\n\n\n\n\n\n\nJan 26, 2023\n\n\nJacob Holmes\n\n\n\n\n\n\n  \n\n\n\n\nPost With pptx\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\npptx\n\n\n\n\n\n\n\n\n\n\n\nJan 25, 2023\n\n\nJacob Holmes\n\n\n\n\n\n\n  \n\n\n\n\nPost With Video\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\npptx\n\n\n\n\n\n\n\n\n\n\n\nJan 25, 2023\n\n\nJacob Holmes\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 24, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 21, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-pptx/index.html",
@@ -54,5 +54,12 @@
     "title": "Post With pptx",
     "section": "",
     "text": "This is a post with a PowerPoint.\n\nThis is an embedded <a target=\"_blank\" href=\"https://office.com\">Microsoft Office</a> presentation, powered by <a target=\"_blank\" href=\"https://office.com/webapps\">Office</a>."
+  },
+  {
+    "objectID": "posts/post-with-video/index.html",
+    "href": "posts/post-with-video/index.html",
+    "title": "Post With Video",
+    "section": "",
+    "text": "This is a post with a video.\nThis video describes the process of creating a data science portfolio."
   }
 ]

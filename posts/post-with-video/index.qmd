@@ -1,0 +1,13 @@
+---
+title: "Post With Video"
+author: "Jacob Holmes"
+date: "2023-01-25"
+categories: [news, code, analysis, pptx]
+image: "image.jpg"
+---
+
+This is a post with a video.
+
+This video describes the process of creating a data science portfolio.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtSFXtDf4cM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
