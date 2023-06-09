@@ -2,4 +2,4 @@
 
 ePortfolio code for github hosted **website**!
 
-This portfolio makes use of Posit's Quarto projects inside of RStudio.
+This portfolio makes use of Posit's [Quarto](https://quarto.org/) projects inside of RStudio.
